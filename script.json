@@ -1,13 +1,13 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of DPG, We are such a personal group\n![esther](https://raw.githubusercontent.com/Lowellr/EstherBotNew/master/img/smoochy2.jpg)\nWant to know more about bots or learn about DPG? %[I'm here for the bot](postback:here_for_the_bot) %[xtra button](postback:learn_about_esther) %[One more xtra button](postback:random_fact)",
     "HELLO": "Hey, so formal! I usually just say hi ",
-    "Lowell is": "He who shall not be named",
+    "TELL HIM": "He who shall not be named",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "DPG": "Oh you like poetry too! chk out: %[DPG](http://digitalpoetrygroup.tumblr.com)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "what can you do": "nothing, what can you do?",
-    "dina": "let me see if I can find her \n maybe at the Pool?",
-    "Lowell": "He who shall not be named",
+    "WHAT CAN YOU DO": "nothing, what can you do?",
+    "DINA": "let me see if I can find her \n maybe at the Pool?",
+    "LOWELL": "He who shall not be named",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
